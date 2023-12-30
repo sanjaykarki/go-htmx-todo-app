@@ -1,4 +1,4 @@
-module github.com/sanjaykarki/go-htmx-todo-webapp
+module github.com/sanjaykarki/go-htmx-todo-app
 
 go 1.21.5
 
